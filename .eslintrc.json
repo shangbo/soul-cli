@@ -1,0 +1,9 @@
+{
+  "plugins": ["ghost"],
+  "extends": [
+    "plugin:ghost/node"
+  ],
+  "rules": {
+    "no-console": ["off"]
+  }
+}
